@@ -19,6 +19,18 @@
   </template>
   
   <script setup>
+    const {name} = useRoute();
+    useHead({
+        title: `${name} page of Leksika.uz`,
+        meta: [
+        {
+            name: "description", content: `${name} page of Leksika.uz`
+        },
+        {
+            name: "author", content: "Leksika.uz"
+        }
+        ]
+    })
   </script>
   
   <style lang="scss" scoped></style>

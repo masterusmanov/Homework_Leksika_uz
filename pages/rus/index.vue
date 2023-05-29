@@ -4,7 +4,10 @@
             <div class="mt-10">
                 <BtnSearch title="RUS ⇆ UZB"/>
                 <div class="mt-10">
-                    <Search/>
+                    <StartWords titles="Ищите любые слова, и мы нашли это слово определение, перевод и т.д."/>
+                </div>
+                <div class="mt-10">
+                    <Search />
                 </div>
                 <div class="mt-10">
                     <ErrorRus/>
@@ -15,7 +18,18 @@
   </template>
   
   <script setup>
-  
+   const {name} = useRoute();
+    useHead({
+        title: `RUS ⇆ UZB page of Leksika.uz`,
+        meta: [
+        {
+            name: "description", content: `RUS ⇆ UZB page of Leksika.uz`
+        },
+        {
+            name: "author", content: "Leksika.uz"
+        }
+        ]
+    })
   </script>
   
   <style lang="scss" scoped></style>
