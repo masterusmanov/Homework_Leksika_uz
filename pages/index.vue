@@ -6,6 +6,9 @@
                 <div class="mt-10">
                     <Search/>
                 </div>
+                <div class="mt-10">
+                    <ErrorEng/>
+                </div>
             </div>
         </main>
     </div>

@@ -85,7 +85,7 @@
                         <h1 class="text-xl text-center font-bold">Increase your knowledge with solve quizes</h1>
                         <h1 class="text-xl font-bold text-center mt-3">Unit 2 ● 32 questions</h1>
                         <div class="flex justify-center items-center mt-5">
-                            <nuxt-link to="#" class="p-3 bg-teal-500 rounded-[20px] px-20">Start Quiz</nuxt-link>
+                            <nuxt-link to="#" class="p-3 bg-teal-500 rounded-[20px] px-20 text-white">Start Quiz</nuxt-link>
                         </div>
                      </div>
                      <div class="container w-[100%] h-[74px] bg-white mx-auto gap-5 m-5 mt-10 mb-10 rounded-[20px] flex justify-beetwen items-center">

@@ -6,6 +6,9 @@
                 <div class="mt-10">
                     <Search/>
                 </div>
+                <div class="mt-10">
+                    <ErrorRus/>
+                </div>
             </div>
         </main>
     </div>
