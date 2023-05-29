@@ -9,13 +9,13 @@
           To reverse the situation, it was decided to compile a large
           English-Uzbek-English dictionary and the work started back in 2003. 2
           years later, the
-          <span class="text-teal-600 font-bold">first edition </span>of the
+          <a  href="#" class="text-teal-600 font-bold">first edition </a>of the
           bilingual dictionary was published in G’afur G’ulom publishing house;
           it is still
-          <span class="text-teal-600 font-bold">available </span> for sale
+          <a href="#" class="text-teal-600 font-bold">available </a> for sale
           online. Much attention was directed to the Uzbek-English part; even
           now, it is the most comprehensive and complete UZ-EN dictionary. A
-          <span class="text-teal-600 font-bold">mobile app </span> for Android
+          <a href="#" class="text-teal-600 font-bold">mobile app </a> for Android
           devices was launched based on the dictionary with ma jor update of the
           lexical database.
         </p>
