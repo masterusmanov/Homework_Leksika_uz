@@ -1,13 +1,13 @@
 <template>
-    <header class="bg-teal-700 h-[100px] flex ">
-        <div class="container mx-auto flex justify-center items-center">
-            <div class="w-1/2">
+    <header class="bg-teal-700 h-[100px] flex sticky top-0 z-50 shadow ">
+        <div class="container mx-auto flex justify-between items-center px-4 md:px-4">
+            <div class="w-1/4 md:w-1/2">
                 <img src="../public/Logo.svg" alt="">
             </div>
-            <div class="w-1/2 text-white flex justify-end text-xl">
-                <ul class="flex gap-14">
+            <div class="w-2/3 md:w-1/2 text-white flex justify-end text-base">
+                <ul class="flex gap-4 md:gap-14">
                     <li><NuxtLink to="/">ENG ⇆ UZB</NuxtLink></li>
-                    <li><NuxtLink to="/rus">RUS ⇆ UZB</NuxtLink></li>
+                    <button disabled >RUS ⇆ UZB</button>
                     <li><NuxtLink to="/articles">Articles</NuxtLink></li>
                     <li><NuxtLink to="/grammar">Grammar</NuxtLink></li>
                     <li><NuxtLink to="/about">About us</NuxtLink></li>

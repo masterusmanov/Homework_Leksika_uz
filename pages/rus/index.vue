@@ -2,9 +2,9 @@
     <div class="bg-green-50 pt-10">
         <main class="min-h-screen">
             <div class="mt-10">
-                <BtnSearch title="RUS ⇆ UZB"/>
+                <BtnSearch titleq="RUS ⇆ UZB"/>
                 <div class="mt-10">
-                    <StartWords titles="Ищите любые слова, и мы нашли это слово определение, перевод и т.д."/>
+                    <StartWord/>
                 </div>
                 <div class="mt-10">
                     <Search />

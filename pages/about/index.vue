@@ -1,5 +1,5 @@
 <template>
-    <div class="bg-green-50 pt-5 pb-5">
+    <div class="bg-green-50 pt-5 pb-5 ">
         <main class="container min-h-screen mx-auto">
             <div  class="flex">
                 <div class="w-[100%]">

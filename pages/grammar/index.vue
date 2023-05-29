@@ -8,9 +8,6 @@
                     </div>    
                 </div>
                 <Table/>
-                <div class="w-[50%] flex justify-center">
-
-                </div>
             </div>
         </main>
     </div>

@@ -1,5 +1,5 @@
 <template>
-    <div class="w-[35%] mt-12 relative ml-7">
+    <div class="w-[35%] mt-12 relative ml-7 ">
         <div class="mx-5">
             <h1 class="text-[34px] text-black font-bold">Latest articles</h1>
         </div>

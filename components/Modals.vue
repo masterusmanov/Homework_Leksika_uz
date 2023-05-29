@@ -1,6 +1,6 @@
 <template>
     <div @click="open" class="absolute w-full h-[180vh] bg-black bg-opacity-20 top-0 left-0 flex justify-center items-center px-8">
-        <div class="p-10 bg-white self-start mt-[15%] max-w-screen-md max-h-screen-xl">
+        <div class="p-10 bg-white self-start mt-[55%] max-w-screen-md max-h-screen-xl">
             <h1 class="text-2xl font-bold">Asqar Arslonov</h1>
             <p class="mt-5 text-justify">Having started his IT-education at the age of 12, Asqarjon has reached the level of full-stack developer just 2 years later. Taking several online courses (Technical Support Fundamentals, Computer Networking) was followed by successful completion of Front-End Development and Back-End Development courses at the Open Web Academy education center in Qarshi city. Being an eighth-grader, he is fully responsible for the technical support of Leksika.uz</p>
             <button @click="emitClose" class="text-white mt-8 box-decoration-clone bg-blue-700 py-2 px-6 rounded-[20px]">Close</button>

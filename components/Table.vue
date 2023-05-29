@@ -5,10 +5,10 @@
           <label for="accordion-item-1" class="accordion-title">
             <div class="flex justify-between items-center">
                 <div class="w-1/2">
-                    <b class="px-3 bg-teal-700 text-white p-1 rounded-full text-xl">{{el.id}}</b> <span class="font-bold text-2xl ml-5">{{el.title}}</span>
+                    <b class="px-3 bg-teal-700 text-white p-1 pb-2 rounded-full text-xl">{{el.id}}</b> <span class="font-bold text-2xl ml-5">{{el.title}}</span>
                 </div>
                 <div class="w-1/2 text-right">
-                    <nuxt-link :to="`/grammar/${el.id}`"><b class="px-3 bg-white py-1 rounded-full text-xl">+</b></nuxt-link>
+                    <nuxt-link :to="`/grammar/${el.id}`"><b class="px-3 bg-white py-1 pb-2 rounded-full text-xl font-bold hover:bg-teal-700 hover:text-white">+</b></nuxt-link>
                 </div>
             </div>
           </label>
