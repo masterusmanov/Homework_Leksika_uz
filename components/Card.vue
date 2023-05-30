@@ -1,5 +1,5 @@
 <template>
-    <div v-for="el in cardView" :key="el.id" :card="el" class="card container mx-auto  m-5 shadow-lg shadow-teal-500 flex justify-beetwen p-5 items-center rounded-[20px] bg-white">
+    <div v-for="el in cardView" :key="el.id" :card="el" class="card container mx-auto  m-5 shadow flex justify-beetwen p-5 items-center rounded-[20px] bg-white">
         <div class="w-1/3">
             <img src="../public/kitob.png" alt="">
         </div>
