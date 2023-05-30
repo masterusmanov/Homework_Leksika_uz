@@ -4,13 +4,13 @@
             <div class="w-1/4 md:w-1/2">
                 <img src="../public/Logo.svg" alt="">
             </div>
-            <div class="w-2/3 md:w-1/2 text-white flex justify-end text-base">
-                <ul class="flex gap-4 md:gap-14">
-                    <li><NuxtLink to="/">ENG ⇆ UZB</NuxtLink></li>
-                    <button disabled >RUS ⇆ UZB</button>
-                    <li><NuxtLink to="/articles">Articles</NuxtLink></li>
-                    <li><NuxtLink to="/grammar">Grammar</NuxtLink></li>
-                    <li><NuxtLink to="/about">About us</NuxtLink></li>
+            <div class="w-2/3 md:w-1/2 text-white flex justify-end text-base ">
+                <ul class="flex gap-4 md:gap-2">
+                    <li class="md:w-[120px] text-center"><NuxtLink to="/">ENG ⇆ UZB</NuxtLink></li>
+                    <li class="md:w-[120px] text-center"><p>RUS ⇆ UZB</p></li>
+                    <li class="md:w-[120px] text-center"><NuxtLink to="/articles">Articles</NuxtLink></li>
+                    <li class="md:w-[120px] text-center"><NuxtLink to="/grammar">Grammar</NuxtLink></li>
+                    <li class="md:w-[120px] text-center"><NuxtLink to="/about">About us</NuxtLink></li>
                 </ul>
             </div>
         </div>
